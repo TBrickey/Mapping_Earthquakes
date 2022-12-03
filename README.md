@@ -1,6 +1,6 @@
 # Mapping_Earthquakes
 
-This challenge consists of three technical analysis deliverables. You will submit the following:
+This challenge consists of three technical analysis deliverables.
 
 - Deliverable 1: Add Tectonic Plate Data
 
